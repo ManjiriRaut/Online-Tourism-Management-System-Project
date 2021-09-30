@@ -1,0 +1,11 @@
+com\travel\tourism\entity\UserPackage.class
+com\travel\tourism\controller\PackageController.class
+com\travel\tourism\service\UserPackageService.class
+com\travel\tourism\service\impl\PackageServiceImpl.class
+com\travel\tourism\service\impl\UserPackageServiceImpl.class
+com\travel\tourism\repository\UserPackageRepository.class
+com\travel\tourism\domain\UserPackageRequest.class
+com\travel\tourism\service\PackageService.class
+com\travel\tourism\TourismApplication.class
+com\travel\tourism\entity\Package.class
+com\travel\tourism\repository\PackageRepository.class
